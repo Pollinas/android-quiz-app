@@ -141,7 +141,7 @@ class QuizQuestionsActivity : AppCompatActivity(), View.OnClickListener {
                             setQuestion()
                         }
                         else ->{
-                            Toast.makeText(this, "Congrats, you've made it to the ned!", Toast.LENGTH_LONG).show()
+                            Toast.makeText(this, "Congrats, you've made it to the end!", Toast.LENGTH_LONG).show()
                         }
                     }
                 } else {
